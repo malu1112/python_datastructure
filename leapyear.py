@@ -20,3 +20,6 @@ def is_leap(year):
         leap = False       
      
     return leap
+
+if __name__ == '__main__':
+    is_lead(2020)
